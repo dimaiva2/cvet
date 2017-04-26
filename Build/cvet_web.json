@@ -4,6 +4,6 @@
 "asmCodeUrl": "cvet_web.asm.code.unityweb",
 "asmMemoryUrl": "cvet_web.asm.memory.unityweb",
 "asmFrameworkUrl": "cvet_web.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#808080"
+"splashScreenStyle": "Light",
+"backgroundColor": "#404040"
 }
